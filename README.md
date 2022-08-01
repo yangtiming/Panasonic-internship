@@ -63,6 +63,14 @@ In order to Identify green color, RGB is transformed to HSV. And then we use cv2
 
 <img src="https://github.com/yangtiming/Panasonic-internship/blob/master/imgs/IMG_5753.JPG" width="600px">
 
-#### Health Code Identification: dynamic identification
+#### Health Code Identification: dynamic identification && name identification
+Firstly, use formula(1)(2) to locate the loaction of name and time.
+
+Secondly, use Mean hash algorithm to make sure  time is dynamic. 
+
+Finally, use Three histogram algorithm to make sure Passenger name is Passenger information entried before. 
+<img src="https://github.com/yangtiming/Panasonic-internship/blob/master/imgs/IMG_5754.JPG" width="600px">
+<img src="https://github.com/yangtiming/Panasonic-internship/blob/master/imgs/IMG_5755.JPG" width="600px">
+
 
 
