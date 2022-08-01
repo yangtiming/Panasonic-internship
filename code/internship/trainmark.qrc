@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="lay">
+    <file>trainmark.jpg</file>
+    <file>login.PNG</file>
+  </qresource>
+</RCC>

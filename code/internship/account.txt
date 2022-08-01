@@ -1,0 +1,6 @@
+
+{'account': '34', 'key': 'rfg890l'}
+{'account': '123', 'key': '1234567'}
+{'account': 'admin', 'key': 'admin11'}
+{'account': '123123', 'key': '123123123'}
+{'account': 'уе', 'key': '123123123'}

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="lay">
+    <file>traininrail.jpg</file>
+    <file>open.PNG</file>
+  </qresource>
+</RCC>

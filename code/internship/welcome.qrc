@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="lay">
+    <file>ApiBackground.PNG</file>
+    <file>welcome.PNG</file>
+    <file>welcome1.jpeg</file>
+    <file>account.PNG</file>
+  </qresource>
+</RCC>
